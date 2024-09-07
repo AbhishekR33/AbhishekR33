@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="https://media.tenor.com/NOYF3f82b_gAAAAM/programmer.gif" width="800" alt="Programmer GIF">
+  <img src="https://media.tenor.com/NOYF3f82b_gAAAAM/programmer.gif" width="600" alt="Programmer GIF">
 </p>
 <h1 align="center">Hi 👋, I'm Abhishek Ravindra Magadum</h1>
 <h3 align="center">I'm a tech developer with a passion for creating innovative solutions.</h3>

@@ -1,8 +1,10 @@
 
 
 <p align="center">
-  <img src="https://media.tenor.com/NOYF3f82b_gAAAAM/programmer.gif" width="600" alt="Programmer GIF">
+  <img src="https://github.githubassets.com/assets/hero-desktop-a38b0fd77b6c.webp" width="1000" height="400" alt="GitHub Hero Image">
 </p>
+
+
 <h1 align="center">Hi 👋, I'm Abhishek Ravindra Magadum</h1>
 <h3 align="center">I'm a tech developer with a passion for creating innovative solutions.</h3>
 

@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="./github-header-image.png" width="800">
+  <img src="./github-header-image.png" width="945">
 </p>
 
 

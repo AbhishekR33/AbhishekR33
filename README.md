@@ -5,7 +5,6 @@
 </p>
 
 
-<h1 align="center">Hi 👋, I'm Abhishek Ravindra Magadum</h1>
 <h3 align="center">I'm a tech developer with a passion for creating innovative solutions.</h3>
 <img align="right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/ad50585b-2e08-4f45-9836-9bb6d67e2a86" width="350">
 
